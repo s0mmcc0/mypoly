@@ -1,6 +1,10 @@
 # 📱 메인 홈 화면 (Main Home View)
 
-  핵심 역할: 공지사항, 사용자 요약 정보, 카테고리별 안건 리스트 및 관심 주제 안건을 통합하여 보여주는 앱의 메인 대시보드
+  공지사항, 사용자 정보, 카테고리별 안건 리스트 및 관심 주제 안건을 통합하여 보여주는 앱의 메인 대시보드
+
+  <img width="202" height="547" alt="image" src="https://github.com/user-attachments/assets/764650ad-625a-4ef7-81b0-205ab0a64edb" /> <img width="204" height="401" alt="image" src="https://github.com/user-attachments/assets/2c05cf71-29cd-41c7-af19-108cf599742e" />
+
+
 
 ## 1. 주요 구현 기능 및 특징
 
